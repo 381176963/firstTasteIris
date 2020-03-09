@@ -1,0 +1,7 @@
+# IDEs and editors
+/.idea
+
+backend.exe
+backend.exe~
+
+/backend/logs
